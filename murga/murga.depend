@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1492620264 source:c:\users\admin\desktop\c++\murga\main.c
+	<stdio.h>
+	<dos.h>
+
